@@ -1,2 +1,2 @@
 # Avaliativa-Dev-Soft
-Avaliatiava Desenvolvimento de Software Bruno Trevizan Rizzatto
+Avaliatiava Desenvolvimento de Software - Bruno Trevizan Rizzatto
